@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "exited",
+      "body": "body",
+      "author": "mav",
+      "id": 1
+    },
+    {
+      "title": "not exited",
+      "body": "not body",
+      "author": "git",
+      "id": 2
+    }
+  ]
+}
